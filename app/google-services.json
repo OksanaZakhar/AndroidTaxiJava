@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077149423417",
+    "firebase_url": "https://taxijava-636c3-default-rtdb.firebaseio.com",
+    "project_id": "taxijava-636c3",
+    "storage_bucket": "taxijava-636c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077149423417:android:568ca61613488e52753ae8",
+        "android_client_info": {
+          "package_name": "com.ksusha.vel.taxijava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077149423417-6glenm0duhbg0dp8a5sajrbhtsih30lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ksusha.vel.taxijava",
+            "certificate_hash": "236a64eb3941f81ea1f7418d45142084dc93f72e"
+          }
+        },
+        {
+          "client_id": "1077149423417-11n0rillau9nbcftnmcpcogllp424ua6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Qf4kxz2RFd4BhApGjOvYfW4WSbfE6eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077149423417-11n0rillau9nbcftnmcpcogllp424ua6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
